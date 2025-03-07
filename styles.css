@@ -11,4 +11,15 @@ width:60%;
 width: 15rem;
 position:relative;
 left: 25px;
+bottom: 300;
+scale: 1
+}
+
+h3
+{
+  background-color: darkgrey;
+  width: 175px;
+  text-align: center;
+  margin: 15px;
+  height: 30;
 }
