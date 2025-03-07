@@ -1,4 +1,10 @@
-h1
+#nav, #main
 {
-  color: green;
+display:inline-block;
+width:60%;
+}
+
+#nav
+{
+width: 10rem;
 }
