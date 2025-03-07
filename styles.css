@@ -1,3 +1,5 @@
+
+
 #nav, #main
 {
 display:inline-block;
@@ -6,5 +8,7 @@ width:60%;
 
 #nav
 {
-width: 10rem;
+width: 15rem;
+position:relative;
+left: 25px;
 }
