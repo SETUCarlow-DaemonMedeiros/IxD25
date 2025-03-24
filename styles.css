@@ -1,12 +1,10 @@
-
-
-#nav, #main
+.nav, .main
 {
 display:inline-block;
 width:60%;
 }
 
-#nav
+.nav
 {
 width: 15rem;
 position:relative;
