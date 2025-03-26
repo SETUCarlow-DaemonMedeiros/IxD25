@@ -8,18 +8,18 @@
   border: 1px solid black;
   border-collapse: collapse;
   text-align:center;
+  padding:10px;
 }
 
-.nav ul
+.nav, ul
 {
  list-style-type: none;
 
  margin: 0;
  padding: 0;
- width: 200px;
+ width: 250px;
  border: 1px solid darkgrey;
  background-color: lightgray;
- position: relative;
  text-align: center;
 }
 
@@ -56,4 +56,19 @@
 {
   background: black;
   color: white;
+}
+
+.green
+{
+  background-color: rgba(124,255,105,0.5);
+}
+
+.yellow
+{
+  background-color: rgba(240,240,50,0.5);
+}
+
+.red
+{
+  background-color:rgba(230,58,37,0.5);
 }
