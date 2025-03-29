@@ -3,6 +3,11 @@
   text-align:center;
 }
 
+.main
+{
+  width:60%;
+}
+
 .table, th, td
 {
   border: 1px solid black;
